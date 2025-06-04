@@ -1,4 +1,4 @@
-## Ola eu sou a Jeniffer 👋
+ # 👩🏻‍💻 Jeniffer Richard
 
 
 
@@ -12,7 +12,7 @@
 ---
   💬 *"A evolução é constante. Um commit por vez, um sonho por dia."*
 
-  # 👩🏻‍💻 Jeniffer Richard
+ 
 
 **`Desenvolvedora Backend`**
 
