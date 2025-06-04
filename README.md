@@ -12,12 +12,6 @@
 ---
   💬 *"A evolução é constante. Um commit por vez, um sonho por dia."*
 
- 
-
-**`Desenvolvedora Backend`**
-
-Me chamo Jeniffer, tenho 29 anos e sou natural de Marília. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unimar. Sou apaixonada por tecnologia.
-
 
 ---
 
